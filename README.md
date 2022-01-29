@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning Backend (Python/Django)
+- 📫 How to reach me: https://t.me/jamshidev
+- 😄 Pronouns: he/him
 <!--
 **jamshid-ai/jamshid-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
