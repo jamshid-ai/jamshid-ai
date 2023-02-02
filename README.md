@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on students motivating system -> Mars IT School
+- 🔭 I’m currently working on students gamification system -> Mars IT School
 - 🌱 I’m currently learning Backend (Python/Django)
 - 📫 How to reach me: https://t.me/jamshidev
 - 😄 Pronouns: he/him
